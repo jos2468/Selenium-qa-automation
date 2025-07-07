@@ -2,7 +2,7 @@
 
 This is a simple automated test suite using Selenium WebDriver and Python. It simulates positive and negative login flows and logs the results into a structured Excel report using the `openpyxl` library.
 
-## 🔧 Tools Used
+## Tools Used
 
 - Python 3
 - Selenium WebDriver
